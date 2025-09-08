@@ -1,0 +1,11 @@
+{
+  "name": "discord-changer-config",
+  "version": "1.0.0",
+  "description": "Discord Changer Configuration",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "GGLUTT",
+  "license": "MIT"
+}

@@ -1,16 +1,17 @@
 {
-  "name": "discord-changer-config",
-  "version": "1.0.0",
-  "description": "Discord Changer Configuration",
-  "main": "index.html",
-  "homepage": "https://gglutt.github.io/discrod_changerCONFIG",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d ."
-  },
-  "author": "GGLUTT",
-  "license": "MIT",
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "name": "discord-changer-config",
+    "version": "1.0.0",
+    "description": "Discord Changer Configuration",
+    "main": "index.html",
+    "homepage": "https://gglutt.github.io/discrod_changerCONFIG",
+    "scripts": {
+      "build": "echo 'Static site - no build needed'",
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d ."
+    },
+    "author": "GGLUTT",
+    "license": "MIT",
+    "devDependencies": {
+      "gh-pages": "^5.0.0"
+    }
   }
-}

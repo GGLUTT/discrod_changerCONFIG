@@ -1211,7 +1211,7 @@ html {
 @media (max-width: 768px) {
     .tech-stack-grid {
         grid-template-columns: 1fr;
-        gap: 20px;
+        gap: 21px;
     }
     
     .tech-category {
